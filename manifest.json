@@ -1,0 +1,37 @@
+{
+    "name": "Incoming Tax",
+    "short_name": "Incoming Tax",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0E1A",
+    "theme_color": "#00D4AA",
+    "description": "Factura cumpliendo Verifactu y presenta tus impuestos tú mismo, con IA. Gestión fiscal para autónomos.",
+    "orientation": "portrait-primary",
+    "lang": "es",
+    "categories": ["finance", "business", "productivity"],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
